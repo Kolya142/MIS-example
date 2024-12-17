@@ -1,0 +1,7 @@
+# documentation
+## how to use
+`emp x y` - where x, y is numbers
+## how to make
+1. realise io system (read two numbers and output multiply)
+2. read 2 numbers, multiply, output
+3. build & it works
